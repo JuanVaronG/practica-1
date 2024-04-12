@@ -1,0 +1,8 @@
+cd salto carpetas 
+nano editar carpetas 
+touch crear archivos 
+rmdir borrar carpeta 
+mv mover 
+mkdir creasr carpeta
+cat mostrar contenido del archivo  
+
