@@ -9,4 +9,5 @@ prueba de comando git branch
 hacer prueba de funcionamiento 
 pruebas exitosas 
 ok 
+git push -u origin main
 
